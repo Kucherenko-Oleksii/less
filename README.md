@@ -1,2 +1,2 @@
-This is code
+#This is code
 Наший перший коміт - зроблено
